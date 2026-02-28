@@ -7,4 +7,3 @@ Aqui estão algumas idéias para você começar:
 - 👯 Estou procurando colaborar na minha empresa
 - 📫 Como entrar em contato comigo: vinimr210@gmail.com ou 37999242792
 - ⚡ Curiosidade: Estou no último período de Sistemas de Informação
-- https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg
